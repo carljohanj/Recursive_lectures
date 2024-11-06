@@ -31,7 +31,7 @@ Sourcemappen innehåller:
 
 # Resurser
 - **Kort film om MC Escher**<br>
-[<img src="https://img.youtube.com/vi/Kcc56fRtrKU/maxresdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
+[<img src="https://img.youtube.com/vi/Kcc56fRtrKU/hqdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
 - **Fördjupning: Ackermannfunktionen**<br>
 [<img src="https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg" alt="Fördjupning: Ackermannfunktionen" width="500"/>](https://www.youtube.com/watch?v=i7sm9dzFtEI)
 -
