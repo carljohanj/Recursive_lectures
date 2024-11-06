@@ -26,3 +26,5 @@ Sourcemappen innehåller:
 |**Rekursivt_fibonacciträd.pdf** | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden.            |
 
 # Resurser
+[![Fördjupning: Ackermannfunktionen](https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=i7sm9dzFtEI)
+
