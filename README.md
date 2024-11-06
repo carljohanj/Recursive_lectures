@@ -30,9 +30,9 @@ Sourcemappen innehåller:
 |**Uppgifter_lösningsförslag.pdf**| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
 
 # Resurser
-- **Kort film om MC Escher**<br>
+- **Kort film om MC Escher** (4 min)<br>
 [<img src="https://img.youtube.com/vi/Kcc56fRtrKU/hqdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
-- **Fördjupning: Ackermannfunktionen**<br>
+- **Fördjupning: Ackermannfunktionen** (14 min)<br>
 [<img src="https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg" alt="Fördjupning: Ackermannfunktionen" width="500"/>](https://www.youtube.com/watch?v=i7sm9dzFtEI)
 -
 
