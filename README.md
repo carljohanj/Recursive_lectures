@@ -1,8 +1,8 @@
 # Rekursion
 
 ## Innehåll
-[Kodexempel] (#Kodexempel)
-[Andra filer] (#Filer)
+[Kodexempel](#Kodexempel)
+[Andra filer](#Filer)
 
 # Kodexempel
 Sourcemappen innehåller:
@@ -16,4 +16,4 @@ Sourcemappen innehåller:
 - ValueVsReferenses.java: Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.
 
 # Filer
-Rekursivt_fibonacciträd.pdf: 
+Rekursivt_fibonacciträd.pdf: En bättre illustration av det rekursiva anropsträdet som skapas när vi anropar en fibonaccialgoritm. Visar även hur 
