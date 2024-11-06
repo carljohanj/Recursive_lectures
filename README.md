@@ -7,6 +7,7 @@
 
 # Kodexempel
 Sourcemappen innehåller:
+| Filnamn | Beskrivning
 - **Ackermann.java**: Exempel på Ackermannfunktionen, den första ickeprimitiva rekursiva funktionen som upptäcktes (löjligt beräkningstung!)
 - **BinarySearch.java**: Exempel på hur en binär sökning fungerar i Java.
 - **IterativeFibonacci.java**: Ett exempel på hur iteration kan användas för att få bort den exponentiella tidskomplexiteten som en rekursiv fibonacci innebär.
