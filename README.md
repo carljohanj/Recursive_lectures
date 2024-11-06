@@ -2,7 +2,7 @@
 
 ## Innehåll
 - [Kodexempel](#Kodexempel)
-- [Andra filer](#Filer)
+- [Andra filer](#Andra filer)
 - [Resurser](#Resurser)
 
 # Kodexempel
@@ -20,7 +20,7 @@ Sourcemappen innehåller:
 | **Stack.java**                   | En implementation av en stack som använder Generics för att man ska kunna lagra olika typer av data i den.                                      |
 | **ValueVsReferenses.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |
 
-# Filer
+# Andra filer
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Rekursivt_fibonacciträd.pdf** | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden.            |
