@@ -27,6 +27,6 @@ Sourcemappen innehåller:
 
 # Resurser
 - **Fördjupning: Ackermannfunktionen**<br>
-[<img src="https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg" alt="Fördjupning: Ackermannfunktionen" width="300"/>](https://www.youtube.com/watch?v=i7sm9dzFtEI)
+[<img src="https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg" alt="Fördjupning: Ackermannfunktionen" width="500"/>](https://www.youtube.com/watch?v=i7sm9dzFtEI)
 -
 
