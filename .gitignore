@@ -1,0 +1,10 @@
+# Konfigurationsmappar:
+.idea/
+
+# Mappar:
+out/production/*
+output_tmp_files/*
+
+# Filer:
+RekursivFibonacci.html
+*.iml
