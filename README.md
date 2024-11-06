@@ -2,7 +2,7 @@
 
 ## Innehåll
 - [Kodexempel](#Kodexempel)
-- [Andra filer](#Andra filer)
+- [Andra filer](#Andra-filer)
 - [Resurser](#Resurser)
 
 # Kodexempel
