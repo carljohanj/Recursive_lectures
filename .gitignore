@@ -2,8 +2,12 @@
 .idea/
 
 # Mappar:
-out/production/*
+out/production/Lecture_Recursion/*
 output_tmp_files/*
+
+# Exkludera inte:
+!out/production/Lecture_Recursion/.gitkeep
+!output_tmp_files/.gitkeep
 
 # Filer:
 RekursivFibonacci.html
