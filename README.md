@@ -24,6 +24,8 @@ Sourcemappen innehåller:
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Rekursivt_fibonacciträd.pdf** | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden.            |
+|**Uppgifter_rekursion.pdf**      | Uppgifter att arbeta med som handlar om det vi gått genom under föreläsningarna. |
+|**Uppgifter_rekursion - lösningsförslag.pdf**| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
 
 # Resurser
 - **Fördjupning: Ackermannfunktionen**<br>
