@@ -2,12 +2,12 @@
 ![Mandelbrotfraktalen](assets/top-image.jpg)
 
 ## Innehåll
-- [Kodexempel](#Kodexempel)
-- [Föreläsningsslides](#Föreläsningsslides)
-- [Andra filer](#Andra-filer)
-- [Resurser](#Resurser)
+- [Kodexempel](#kodexempel)
+- [Föreläsningsslides](#presentationer)
+- [Andra filer](#andra-filer)
+- [Resurser](#resurser)
 
-# Kodexempel
+# <a id="kodexempel"></a>Kodexempel
 
 Sourcemappen innehåller:
 
@@ -22,20 +22,20 @@ Sourcemappen innehåller:
 | **Stack.java**                   | En implementation av en stack som använder Generics för att man ska kunna lagra olika typer av data i den.                                      |
 | **ValueVsReference.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |
 
-# Föreläsningsslides
+# <a id="presentationer"></a>Föreläsningsslides
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |[**Rekursiva_Algoritmer.pdf**](Rekursiva_Algoritmer.pdf)| Presentationen från föreläsningstillfälle 1 och 2 (29/1) där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
 |[**Rekursiva_Datastrukturer.pdf**](Rekursiva_Datastrukturer.pdf)| Presentationen från föreläsningstillfälle 3 och 4 (30/1) där vi pratade om träd, grafer, abstrakta datatyper, Generics och garbage collection. |
 
-# Andra filer
+# <a id="andra-filer"></a>Andra filer
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |[**Rekursivt_fibonacciträd.pdf**](Rekursivt_fibonacciträd.pdf) | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden.            |
 |[**Uppgifter_rekursion.pdf**](Uppgifter_rekursion.pdf) | Uppgifter att arbeta med som handlar om det vi gått genom under föreläsningarna. |
 |[**Uppgifter_lösningsförslag.pdf**](Uppgifter_lösningsförslag)| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
 
-# Resurser
+# <a id="resurser"></a>Resurser
 - **Kort film om MC Escher** (4 min)<br>
 [<img src="https://img.youtube.com/vi/Kcc56fRtrKU/hqdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
 - **Fördjupning: Ackermannfunktionen** (14 min)<br>
