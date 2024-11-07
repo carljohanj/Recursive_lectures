@@ -1,7 +1,7 @@
 # Exkludera konfigurationsmappen:
 .idea/
 
-# Exkludera filer i mappar:
+# Exkludera filer i tempmappar:
 out/production/Lecture_Recursion/*
 output_tmp_files/*
 
