@@ -25,8 +25,8 @@ Sourcemappen innehåller:
 # Föreläsningsslides
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Rekursiva_Algoritmer.pdf**| Presentationen från första föreläsningstillfället. |
-|**Rekursiva_Datastrukturer.pdf**| Presentationen från det andra föreläsningstillfället. |
+|**Rekursiva_Algoritmer.pdf**| Presentationen från första föreläsningstillfället där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
+|**Rekursiva_Datastrukturer.pdf**| Presentationen från det andra föreläsningstillfället där vi pratade om träd, grafer, abstrakta datatyper, Generics och garbage collection. |
 
 # Andra filer
 | Filnamn                         | Beskrivning                                                                                                                                     |
