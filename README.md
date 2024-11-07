@@ -1,4 +1,5 @@
 # Rekursion, minne och abstrakta datatyper
+![My Project Header](assets/top-image.jpg)
 
 ## Innehåll
 - [Kodexempel](#Kodexempel)
