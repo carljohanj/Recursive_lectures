@@ -18,7 +18,7 @@ Sourcemappen innehåller:
 | **IterativeFibonacci.java**      | Ett exempel på hur iteration kan användas för att få bort den exponentiella tidskomplexiteten som en rekursiv fibonacci innebär.              |
 | **RecursiveFibonacci.java**      | En rekursiv fibonaccialgoritm som anropar sig själv två gånger varje gång den körs.                                                              |
 | **RecursiveFibonacciDynamic.java**| En rekursiv fibonaccialternativ som använder en dynamisk programmeringsteknik för att effektivisera algoritmen.                                 |
-| **RecursiveFibonacciStackCounter.java** | Ett program som genererar en webbsida som visar hur stacken och det rekursiva anropsträdet förändras när en rekursiv fibonaccialgoritm anropas. |
+| **RecursiveFibonacciStackCounter.java** | Ett program som genererar en webbsida som visar vad som pushas på och poppas från callstacken när en rekursiv fibonaccialgoritm anropas. |
 | **Stack.java**                   | En implementation av en stack som använder Generics för att man ska kunna lagra olika typer av data i den.                                      |
 | **ValueVsReference.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |
 
