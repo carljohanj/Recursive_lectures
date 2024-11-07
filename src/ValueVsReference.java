@@ -13,7 +13,9 @@ public class ValueVsReference
         System.out.println("Ordningen på arrayen innan den skickats som referens till passByReference(): ");
         for (int j : array)
             System.out.print(j + ", ");
+
         passByReference(array);
+
         System.out.println("\nOrdningen på arrayen efter den skickats som referens till passByReference(): ");
         for (int j : array)
             System.out.print(j + ", ");
