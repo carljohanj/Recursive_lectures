@@ -20,7 +20,7 @@ Sourcemappen innehåller:
 | **RecursiveFibonacciDynamic.java**| En rekursiv fibonaccialternativ som använder en dynamisk programmeringsteknik för att effektivisera algoritmen.                                 |
 | **RecursiveFibonacciStackCounter.java** | Ett program som genererar en webbsida som visar hur stacken och det rekursiva anropsträdet förändras när en rekursiv fibonaccialgoritm anropas. |
 | **Stack.java**                   | En implementation av en stack som använder Generics för att man ska kunna lagra olika typer av data i den.                                      |
-| **ValueVsReferenses.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |
+| **ValueVsReference.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |
 
 # Föreläsningsslides
 | Filnamn                         | Beskrivning                                                                                                                                     |
