@@ -3,6 +3,7 @@
 
 ## Innehåll
 - [Kodexempel](#Kodexempel)
+- [Föreläsningsslides](#Föreläsningsslides)
 - [Andra filer](#Andra-filer)
 - [Resurser](#Resurser)
 
@@ -21,11 +22,15 @@ Sourcemappen innehåller:
 | **Stack.java**                   | En implementation av en stack som använder Generics för att man ska kunna lagra olika typer av data i den.                                      |
 | **ValueVsReferenses.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |
 
-# Andra filer
+# Föreläsningsslides
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Rekursiva_Algoritmer.pdf**| Presentationen från första föreläsningstillfället. |
 |**Rekursiva_Datastrukturer.pdf**| Presentationen från det andra föreläsningstillfället. |
+
+# Andra filer
+| Filnamn                         | Beskrivning                                                                                                                                     |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Rekursivt_fibonacciträd.pdf** | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden.            |
 |**Uppgifter_rekursion.pdf**      | Uppgifter att arbeta med som handlar om det vi gått genom under föreläsningarna. |
 |**Uppgifter_lösningsförslag.pdf**| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
