@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RecursiveFibonacciDynamic
+public class FibonacciRecursiveDynamic
 {
     static long[] memo;
     static int counter = 0;

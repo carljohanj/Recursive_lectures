@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @since 2025-01-29
  * @version 1.0
  */
-public class RecursiveFibonacciStackCounter
+public class FibonacciStackCounter
 {
     private static final StringBuilder html = new StringBuilder();
     private static final char[] letters = new char[26];
@@ -147,7 +147,7 @@ public class RecursiveFibonacciStackCounter
         {
             String line;
             while ((line = br.readLine()) != null)
-                RecursiveFibonacciStackCounter.html.append(line).append("\n");
+                FibonacciStackCounter.html.append(line).append("\n");
         }
     }
 

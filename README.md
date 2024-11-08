@@ -15,10 +15,10 @@ Sourcemappen innehåller:
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Ackermann.java**               | Exempel på Ackermannfunktionen, den första ickeprimitiva rekursiva funktionen som upptäcktes (löjligt beräkningstung!)                          |
 | **BinarySearch.java**            | Exempel på hur en binär sökning fungerar i Java.                                                                                                |
-| **IterativeFibonacci.java**      | Ett exempel på hur iteration kan användas för att få bort den exponentiella tidskomplexiteten som en rekursiv fibonacci innebär.              |
-| **RecursiveFibonacci.java**      | En rekursiv fibonaccialgoritm som anropar sig själv två gånger varje gång den körs.                                                              |
-| **RecursiveFibonacciDynamic.java**| Ett rekursivt fibonaccialternativ som använder en dynamisk programmeringsteknik för att effektivisera algoritmen.                                 |
-| **RecursiveFibonacciStackCounter.java** | Ett program som genererar en webbsida som visar vad som pushas på och poppas från callstacken när en rekursiv fibonaccialgoritm anropas. |
+| **FibonacciIterative.java**      | Ett exempel på hur iteration kan användas för att få bort den exponentiella tidskomplexiteten som en rekursiv fibonacci innebär.              |
+| **FibonacciRecursive.java**      | En rekursiv fibonaccialgoritm som anropar sig själv två gånger varje gång den körs.                                                              |
+| **FibonacciRecursiveDynamic.java**| Ett rekursivt fibonaccialternativ som använder en dynamisk programmeringsteknik för att effektivisera algoritmen.                                 |
+| **FibonacciStackCounter.java** | Ett program som genererar en webbsida som visar vad som pushas på och poppas från callstacken när en rekursiv fibonaccialgoritm anropas. |
 | **SierpinskiTriangle.java** | Ett program som ritar upp en liksidig triangel och för varje rekursivt anrop sedan delar in den i tre mindre trianglar. Använd +/- för att zooma och c för att slå på/av färg. |
 | **Stack.java**                   | En implementation av en stack som använder Generics för att man ska kunna lagra olika typer av data i den.                                      |
 | **ValueVsReference.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser i Java.                    |

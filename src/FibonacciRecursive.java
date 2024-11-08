@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RecursiveFibonacci
+public class FibonacciRecursive
 {
     public static int counter = 0;
 

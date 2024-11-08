@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IterativeFibonacci
+public class FibonacciIterative
 {
     public static int counter = 0;
     public static void main(String[] args)
