@@ -39,13 +39,13 @@ Sourcemappen innehåller:
 |[**Uppgifter_lösningsförslag.pdf**](Uppgifter_lösningsförslag)| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
 
 # <a id="resurser"></a>Resurser
-- **Bra sammanfattning av Generics i Oracles Javadokumentation**: https://docs.oracle.com/javase/tutorial/java/generics/index.html
+- **Bra sammanfattning av Generics**: https://docs.oracle.com/javase/tutorial/java/generics/index.html
 - **Abstrakta datatyper**: https://www.geeksforgeeks.org/abstract-data-types/
 - **Fördjupning: Replication is recursion.** Publicering om hur rekursion i datorvetenskap, matematik och biologi hänger samman: https://www.researchgate.net/publication/275658586_Replication_is_Recursion_or_Lambda_the_Biological_Imperative <br>
 - **Boktips: Gödel, Escher, Bach.** https://sv.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 - **Kort film om MC Escher** (4 min)<br>
 [<img src="https://img.youtube.com/vi/Kcc56fRtrKU/hqdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
-- **Fördjupning: Ackermannfunktionen** (14 min)<br>
+- **Fördjupning: Ackermann** (14 min)<br>
 [<img src="https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg" alt="Fördjupning: Ackermannfunktionen" width="500"/>](https://www.youtube.com/watch?v=i7sm9dzFtEI)
 -
 
