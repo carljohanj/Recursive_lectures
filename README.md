@@ -51,7 +51,7 @@ Sourcemappen innehåller:
 ## <a id="videor"></a>Videoklipp
 - **Video om rekursion** (10 min)<br>
 [<img src="https://img.youtube.com/vi/Mv9NEXX1VHc/hqdefault.jpg" alt="David Brailsford om rekursivitet" width="500"/>](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
-- **Program sys in i minnet för Apollouppdragen** (2 min)<br>
+- **Program som sys in i minnet för Apollodatorn** (2 min)<br>
 [<img src="https://img.youtube.com/vi/P12r8DKHsak/hqdefault.jpg" alt="Core rope memory" width="500"/>](https://www.youtube.com/watch?v=P12r8DKHsak)
 - **Kort film om MC Escher** (4 min)<br>
 [<img src="https://img.youtube.com/vi/Kcc56fRtrKU/hqdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
