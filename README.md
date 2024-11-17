@@ -43,8 +43,8 @@ Sourcemappen innehåller:
 ## Länkar
 - **Bra sammanfattning av Generics**: https://docs.oracle.com/javase/tutorial/java/generics/index.html
 - **Abstrakta datatyper**: https://www.geeksforgeeks.org/abstract-data-types/
-- **Fördjupning: Replication is recursion.** Publicering om hur rekursion i datorvetenskap, matematik och biologi hänger samman: https://www.researchgate.net/publication/275658586_Replication_is_Recursion_or_Lambda_the_Biological_Imperative <br>
 - **Boktips: Gödel, Escher, Bach.** https://sv.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+- **Fördjupning: Replication is recursion.** Publicering om hur rekursion i datorvetenskap, matematik och biologi hänger samman: https://www.researchgate.net/publication/275658586_Replication_is_Recursion_or_Lambda_the_Biological_Imperative <br>
 
 ## Videor
 - **Video om rekursion** (10 min)<br>
