@@ -1,14 +1,17 @@
 import java.util.EmptyStackException;
+import java.util.LinkedList;
 
 /**
- * En generisk implementation av en stack med en underliggande array. TBD innebär att klassen är en
+ * En generisk implementation av en stack med en underliggande array. Type innebär att klassen är en
  * template som inte har en fixerad datatyp förrän den anropas. Vid instansiering av ett stackobjekt
  * anger man vad man vill att den ska lagra för datatyp, precis som man gör med en ArrayList och liknande
  * datastrukturer.
  * <br><br>
  * Exempel:
  * <br>
- * {@code Stack<Integer> stack = new Stack<>();} där Integer ersätter Type. Funkar även med Double, Long, String, osv...
+ * {@code Stack<Integer> stack = new Stack<>();}
+ * <br><br>
+ * där Integer ersätter Type. Funkar även med Double, Long, String, osv...
  * @param <Type> Datatypen som stacken ska hantera.
  */
 public class Stack<Type>

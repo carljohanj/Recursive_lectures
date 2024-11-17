@@ -12,3 +12,13 @@ output_tmp_files/*
 # Exkludera filer i rootmappen:
 RekursivFibonacci.html
 *.iml
+
+# Fillista (bocka av filer efterhand så att inte alla laddas upp samtidigt)
+src/Node.java
+src/TreeNode.java
+src/Stack.java
+src/FibonacciStackCounter
+src/SimpleQueue.java
+Föreläsning_2_Algo.pdf
+Uppgifter.pdf
+Uppgifter_lösningsförslag.pdf
