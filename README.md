@@ -44,8 +44,7 @@ Sourcemappen innehåller:
 - **Fördjupning: Replication is recursion.** Publicering om hur rekursion i datorvetenskap, matematik och biologi hänger samman: https://www.researchgate.net/publication/275658586_Replication_is_Recursion_or_Lambda_the_Biological_Imperative <br>
 - **Boktips: Gödel, Escher, Bach.** https://sv.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 - **Core rope memory** (2 min)
-[<img src="https://img.youtube.com/vi/P12r8DKHsak/maxresdefault.jpg" alt="Core rope memory" width="500"/>](https://www.youtube.com/watch?v=P12r8DKHsak)
-https://www.youtube.com/watch?v=P12r8DKHsak 
+[<img src="https://img.youtube.com/vi/P12r8DKHsak/hqdefault.jpg" alt="Core rope memory" width="500"/>](https://www.youtube.com/watch?v=P12r8DKHsak)
 - **Kort film om MC Escher** (4 min)<br>
 [<img src="https://img.youtube.com/vi/Kcc56fRtrKU/hqdefault.jpg" alt="MC Escher" width="500"/>](https://www.youtube.com/watch?v=Kcc56fRtrKU)
 - **Fördjupning: Ackermann** (14 min)<br>
