@@ -50,6 +50,8 @@ Sourcemappen innehåller:
 - **Fördjupning: Replication is recursion.** Publicering om hur rekursion i datorvetenskap, matematik och biologi hänger samman: https://www.researchgate.net/publication/275658586_Replication_is_Recursion_or_Lambda_the_Biological_Imperative <br>
 
 ## <a id="videor"></a>Videoklipp
+- **5 easy steps for solving any recursive problem** (21 min)<br>
+[<img src="https://img.youtube.com/vi/ngCos392W4w/hqdefault.jpg" alt="Rekursiv problemlösning" width="500"/>](https://www.youtube.com/watch?v=ngCos392W4w)
 - **Video om rekursion** (10 min)<br>
 [<img src="https://img.youtube.com/vi/Mv9NEXX1VHc/hqdefault.jpg" alt="David Brailsford om rekursivitet" width="500"/>](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 - **Program som sys in i minnet för Apollodatorn** (2 min)<br>
