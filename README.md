@@ -57,7 +57,7 @@ Sourcemappen innehåller:
 ## <a id="videor"></a>Videoklipp
 - **The Secret Rules of Modern Living Algorithms** (58 min)<br>
 [<img src="https://img.youtube.com/vi/kiFfp-HAu64/hqdefault.jpg" alt="The Secret Rules of Modern Algorithms" width="500"/>](https://www.youtube.com/watch?v=kiFfp-HAu64)
-- **David Brailsford om rekursion** (12 min)<br>
+- **David Brailsford om loopar och rekursion** (12 min)<br>
 [<img src="https://img.youtube.com/vi/HXNhEYqFo0o/hqdefault.jpg" alt="The Secret Rules of Modern Algorithms" width="500"/>](https://www.youtube.com/watch?v=HXNhEYqFo0o)
 - **Program som sys in i minnet för Apollodatorn** (2 min)<br>
 [<img src="https://img.youtube.com/vi/P12r8DKHsak/hqdefault.jpg" alt="Core rope memory" width="500"/>](https://www.youtube.com/watch?v=P12r8DKHsak)
