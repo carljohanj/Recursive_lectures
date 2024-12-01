@@ -44,6 +44,7 @@ Sourcemappen innehåller:
 
 # <a id="verktyg"></a>Bra verktyg
 - **Code Blocks: Plugin som kan applicera markup för kod man klistrar in i Google Docs.** https://workspace.google.com/marketplace/app/code_blocks/100740430168
+- **Google Keep: utmärkt ställe att dumpa anteckningar.** https://keep.google.com/
 
 # <a id="resurser"></a>Resurser
 
