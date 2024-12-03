@@ -43,6 +43,8 @@ Sourcemappen innehåller:
 |[**Uppgifter_lösningsförslag.pdf**](Uppgifter_lösningsförslag)| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
 
 # <a id="verktyg"></a>Bra verktyg
+- **InteliJ-plugin: PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
+- **IntelliJ-plugin: CSV Editor.** https://plugins.jetbrains.com/plugin/10037-csv-editor
 - **Code Blocks: Plugin som kan applicera markup för kod man klistrar in i Google Docs.** https://workspace.google.com/marketplace/app/code_blocks/100740430168
 - **Google Keep: utmärkt ställe att dumpa anteckningar.** https://keep.google.com/
 
