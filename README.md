@@ -43,11 +43,9 @@ Sourcemappen innehåller:
 |[**Uppgifter.pdf**](Uppgifter.pdf) | Uppgifter att arbeta med som handlar om det vi gått genom under föreläsningarna. |
 |[**Uppgifter_lösningsförslag.pdf**](Uppgifter_lösningsförslag)| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
 
-# <a id="verktyg"></a>Bra verktyg
-- **InteliJ-plugin: PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
-- **IntelliJ-plugin: CPU Usage Indicator.** https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator
-- **Code Blocks: Plugin som kan applicera markup för kod i Google Docs.** https://workspace.google.com/marketplace/app/code_blocks/100740430168
-- **Google Keep: utmärkt ställe att dumpa anteckningar.** https://keep.google.com/
+# <a id="verktyg"></a>IntelliJ-plugins
+- **PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
+- **CPU Usage Indicator.** https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator
 
 # <a id="resurser"></a>Resurser
 
