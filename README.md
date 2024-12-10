@@ -41,6 +41,7 @@ Sourcemappen innehåller:
 |[**Rekursivt_fibonacciträd.pdf**](Rekursivt_fibonacciträd.pdf) | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden.            |
 |[**Uppgifter.pdf**](Uppgifter.pdf) | Uppgifter att arbeta med som handlar om det vi gått genom under föreläsningarna. |
 |[**Uppgifter_lösningsförslag.pdf**](Uppgifter_lösningsförslag)| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
+|[**Godel_Escher_Bach_Recursion.pdf**](Godel_Escher_Bach_recursion.pdf)| Utdrag från boken Gödel, Eschar Bach. Kapitlet handlar specifikt om rekursivitet. (26 sidor) |
 
 # <a id="verktyg"></a>Bra verktyg
 - **InteliJ-plugin: PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
