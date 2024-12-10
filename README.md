@@ -45,7 +45,6 @@ Sourcemappen innehåller:
 
 # <a id="verktyg"></a>Bra verktyg
 - **InteliJ-plugin: PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
-- **IntelliJ-plugin: CSV Editor.** https://plugins.jetbrains.com/plugin/10037-csv-editor
 - **IntelliJ-plugin: CPU Usage Indicator.** https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator
 - **Code Blocks: Plugin som kan applicera markup för kod i Google Docs.** https://workspace.google.com/marketplace/app/code_blocks/100740430168
 - **Google Keep: utmärkt ställe att dumpa anteckningar.** https://keep.google.com/
