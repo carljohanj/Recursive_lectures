@@ -3,8 +3,6 @@
 
 # Exkludera filer i temporära mappar:
 out/
-output_tmp_files/*.csv
-output_tmp_files/*.txt
 
 #Exkludera inte denna (i så fall raderas mappen)
 !output_tmp_files/
