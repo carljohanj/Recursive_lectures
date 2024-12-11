@@ -5,7 +5,7 @@
 - [Kodexempel](#kodexempel)
 - [Föreläsningsslides](#presentationer)
 - [Andra filer](#andra-filer)
-- [Bra verktyg](#verktyg)
+- [IntelliJ-plugins](#verktyg)
 - [Resurser](#resurser)
   - [Länkar](#links)
   - [Videoklipp](#videor)
@@ -44,6 +44,7 @@ Sourcemappen innehåller:
 # <a id="verktyg"></a>IntelliJ-plugins
 - **PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
 - **CPU Usage Indicator.** https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator
+- **One Dark Theme.** https://plugins.jetbrains.com/plugin/11938-one-dark-theme
 
 # <a id="resurser"></a>Resurser
 
