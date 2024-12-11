@@ -73,5 +73,3 @@ Sourcemappen innehåller:
 [<img src="https://img.youtube.com/vi/FFftmWSzgmk/hqdefault.jpg" alt="Mandelbrotfraktalen" width="500"/>](https://www.youtube.com/watch?v=FFftmWSzgmk)
 - **Fördjupning: Ackermann** (14 min)<br>
 [<img src="https://img.youtube.com/vi/i7sm9dzFtEI/maxresdefault.jpg" alt="Fördjupning: Ackermannfunktionen" width="500"/>](https://www.youtube.com/watch?v=i7sm9dzFtEI)
--
-
