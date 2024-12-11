@@ -1,7 +1,7 @@
 # Exkludera konfigurationsmappen:
 .idea/
 
-# Exkludera filer i tempmappar:
+# Exkludera filer i temporära mappar:
 out/production/Lecture_Recursion/*
 output_tmp_files/*
 
@@ -9,6 +9,6 @@ output_tmp_files/*
 !out/production/Lecture_Recursion/.gitkeep
 !output_tmp_files/.gitkeep
 
-# Exkludera filer i rootmappen:
+# Exkludera filer i projektmappen:
 RekursivFibonacci.html
 *.iml

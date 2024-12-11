@@ -19,10 +19,9 @@ public class FibonacciRecursive
         System.out.println("Antal metodanrop för att beräkna numret: " + counter);
     }
 
-    /* I fibonaccisekvensen beräknas varje nytt tal utifrån de två föregående
-     * Formeln är Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
-     * Om inte basfallet uppnås vill vi därför göra två nya anrop för att beräkna föregående tal
-     * Metoderna kommer att arbeta nedåt och göra nya anropskedjor ända tills basfallet nås
+    /* I fibonaccisekvensen beräknas varje nytt tal utifrån de två föregående.
+     * Algoritmen börjar från toppen och arbetar nedåt genom att göra nya anropskedjor ända tills basfallet nås.
+     * Om inte basfallet uppnås vill vi därför göra två nya anrop för att beräkna föregående tal.
      * När en anropskedja nått basfallet kommer den börja returnera beräkningar */
     public static long fib(int n)
     {
