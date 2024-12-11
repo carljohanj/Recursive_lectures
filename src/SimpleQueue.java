@@ -4,6 +4,7 @@ import java.util.Queue;
 public class SimpleQueue<Type>
 {
     private Queue<Type> queue;
+
     public SimpleQueue()
     {
         queue = new LinkedList<>();

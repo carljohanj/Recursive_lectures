@@ -2,12 +2,8 @@
 .idea/
 
 # Exkludera filer i temporära mappar:
-out/production/Lecture_Recursion/*
-output_tmp_files/*
-
-# Exkludera inte dessa (i så fall raderas mapparna helt):
-!out/production/Lecture_Recursion/.gitkeep
-!output_tmp_files/.gitkeep
+out/
+output_tmp_files/
 
 # Exkludera filer i projektmappen:
 RekursivFibonacci.html
