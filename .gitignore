@@ -3,9 +3,10 @@
 
 # Exkludera filer i temporära mappar:
 out/
+output_tmp_files/*.txt
+output_tmp_files/*.csv
 
 #Exkludera inte denna (i så fall raderas mappen)
-!output_tmp_files/
 !.include
 
 # Exkludera filer i projektmappen:
