@@ -31,7 +31,7 @@ Sourcemappen innehåller:
 | Filnamn                         | Beskrivning                                                                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |[**Föreläsning_1_Algo.pdf**](Föreläsning_1_Algo.pdf)| Presentationen från föreläsningstillfälle 1 och 2 (29/1) där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
-|[**Föreläsning_2_Algo.pdf**](Föreläsning_2_Algo.pdf)| Presentationen från föreläsningstillfälle 3 och 4 (30/1) där vi pratade om träd, grafer, abstrakta datatyper, Generics och garbage collection. |
+|[**Föreläsning_2_Algo.pdf**](Föreläsning_2_Algo.pdf)| Presentationen från föreläsningstillfälle 3 (30/1) där vi pratade om abstrakta datatyper, Generics, stackar och garbage collection. |
 
 # <a id="andra-filer"></a>Andra filer
 | Filnamn                         | Beskrivning                                                                                                                                     |
