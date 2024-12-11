@@ -7,6 +7,7 @@ output_tmp_files/*
 
 #Exkludera inte denna (i så fall raderas mappen)
 !output_tmp_files/
+!.include
 
 # Exkludera filer i projektmappen:
 RekursivFibonacci.html
