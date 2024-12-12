@@ -59,7 +59,7 @@ Sourcemappen innehåller:
 [<img src="https://img.youtube.com/vi/kiFfp-HAu64/hqdefault.jpg" alt="The Secret Rules of Modern Algorithms" width="500"/>](https://www.youtube.com/watch?v=kiFfp-HAu64)
 - **Stepping through Recursive Fibonacci** (8 min)<br>
 [<img src="https://img.youtube.com/vi/zg-ddPbzcKM/hqdefault.jpg" alt="Stepping through recursive fibonacci" width="500"/>](https://www.youtube.com/watch?v=zg-ddPbzcKM)
--**Doodling in Math: fibonacci numbers and plants** (3 delar - se alla)<br>
+- **Doodling in Math: fibonacci numbers and plants** (3 delar - se alla)<br>
 [<img src="https://img.youtube.com/vi/ahXIMUkSXX0/hqdefault.jpg" alt="Doodling in math" width="500"/>](https://www.youtube.com/watch?v=ahXIMUkSXX0)
 - **The magic of fibonacci numbers** (6 min)<br>
 [<img src="https://img.youtube.com/vi/SjSHVDfXHQ4/hqdefault.jpg" alt="The magic of fibonacci numbers" width="500"/>](https://www.youtube.com/watch?v=SjSHVDfXHQ4)
