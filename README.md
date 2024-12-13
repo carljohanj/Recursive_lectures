@@ -4,7 +4,7 @@
 ## Innehåll
 - [Kodexempel](#kodexempel)
 - [Föreläsningsslides](#presentationer)
-- [Andra filer](#andra-filer)
+- [Uppgifter och andra filer](#andra-filer)
 - [IntelliJ-plugins](#verktyg)
 - [Resurser](#resurser)
   - [Länkar](#links)
@@ -14,18 +14,19 @@
 
 Sourcemappen innehåller:
 
-| Filnamn                         | Beskrivning                                                                                                                                     |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **BinarySearch.java**            | Exempel på hur en binär sökning fungerar i Java.                                                                                                |
-| **FibonacciIterative.java**      | Ett exempel på hur iteration kan användas för att få bort den exponentiella tidskomplexiteten som en rekursiv fibonacci innebär.              |
-| **FibonacciRecursive.java**      | En rekursiv fibonaccialgoritm som anropar sig själv två gånger varje gång den körs.                                                              |
-| **FibonacciRecursiveDynamic.java**| Ett rekursivt fibonaccialternativ som använder en dynamisk programmeringsteknik för att effektivisera algoritmen.                                 |
-| **FibonacciStackCounter.java** | Ett program som genererar en webbsida som visar vad som pushas på och poppas från callstacken när en rekursiv fibonaccialgoritm anropas. |
-| **Node.java** | En klass som kan användas för att bygga en Länkad Lista. En Node innehåller en instans av sig själv och kan därför sägas vara en rekursiv datastruktur. |
-| **SierpinskiTriangle.java** | Ett program som ritar upp en liksidig triangel och för varje rekursivt anrop sedan delar in den i tre mindre trianglar. Använd +/- för att zooma och c för att slå på/av färg. |
-| **Stack.java**                   | En implementation av en stack som är generisk för att man ska kunna lagra olika typer av data i den. |
-| **TreeNode.java** | En TreeNode är ungefär samma sak som en Node, men den innehåller **två** instanser av sig själv. Vi kan använda en trädnod för att bygga ett binärt sökträd.|
-| **ValueVsReference.java**       | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser (detta sköts automatiskt i Java men man behöver förstå vad som händer). |
+| Filnamn                            | Beskrivning                                                                                                                                                                                 |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **BinarySearch.java**              | Exempel på hur en binär sökning fungerar i Java.                                                                                                                                            |
+| **ConwaysGameOfLife.java**         | En version av Conways Game of Life skriven i Java. Spelet är ett exempel på en så kallad oförutsägbar algoritm.                                                                             |
+| **FibonacciIterative.java**        | Ett exempel på hur iteration kan användas för att få bort den exponentiella tidskomplexiteten som en rekursiv fibonacci innebär.                                                            |
+| **FibonacciRecursive.java**        | En rekursiv fibonaccialgoritm som anropar sig själv två gånger varje gång den körs.                                                                                                         |
+| **FibonacciRecursiveDynamic.java** | Ett rekursivt fibonaccialternativ som använder en dynamisk programmeringsteknik för att effektivisera algoritmen.                                                                           |
+| **FibonacciStackCounter.java**     | Ett program som genererar en webbsida som visar vad som pushas på och poppas från callstacken när en rekursiv fibonaccialgoritm anropas.                                                    |
+| **Node.java**                      | En klass som kan användas för att bygga en Länkad Lista. En Node innehåller en instans av sig själv och kan därför sägas vara en rekursiv datastruktur.                                     |
+| **SierpinskiTriangle.java**        | Ett program som ritar upp en liksidig triangel och för varje rekursivt anrop sedan delar in den i tre mindre trianglar. Använd +/- för att zooma och c för att slå på/av färg.              |
+| **Stack.java**                     | En implementation av en stack som är generisk för att man ska kunna lagra olika typer av data i den.                                                                                        |
+| **TreeNode.java**                  | En TreeNode är ungefär samma sak som en Node, men den innehåller **två** instanser av sig själv. Vi kan använda en trädnod för att bygga ett binärt sökträd.                                |
+| **ValueVsReference.java**          | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser (detta sköts automatiskt i Java men man behöver förstå vad som händer). |
 
 # <a id="presentationer"></a>Föreläsningsslides
 | Filnamn                         | Beskrivning                                                                                                                                     |
@@ -33,7 +34,7 @@ Sourcemappen innehåller:
 |[**Föreläsning_1_Algo.pdf**](files/Föreläsning_1_Algo.pdf)| Presentationen från föreläsningstillfälle 1 och 2 (29/1) där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
 |[**Föreläsning_2_Algo.pdf**](files/Föreläsning_2_Algo.pdf)| Presentationen från föreläsningstillfälle 3 (30/1) där vi pratade om abstrakta datatyper, Generics, stackar och köer. |
 
-# <a id="andra-filer"></a>Andra filer
+# <a id="andra-filer"></a>Uppgifter och andra filer
 | Filnamn                                                                | Beskrivning                                                                                                                                                          |
 |------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Rekursive_fibonacci_tree.pdf**](files/Recursive_fibonacci_tree.pdf)       | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden och i vilken ordning de skapas. |
