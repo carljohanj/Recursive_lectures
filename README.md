@@ -34,12 +34,12 @@ Sourcemappen innehåller:
 |[**Föreläsning_2_Algo.pdf**](Föreläsning_2_Algo.pdf)| Presentationen från föreläsningstillfälle 3 (30/1) där vi pratade om abstrakta datatyper, Generics, stackar och köer. |
 
 # <a id="andra-filer"></a>Andra filer
-| Filnamn                         | Beskrivning                                                                                                                                     |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|[**Rekursivt_fibonacciträd.pdf**](Rekursivt_fibonacciträd.pdf) | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden och i vilken ordning de skapas.|
-|[**Godel_Escher_Bach_Recursion.pdf**](Godel_Escher_Bach_Recursion.pdf)| Utdrag från Douglas Hofstadters bok Gödel, Escher, Bach. Kapitlet handlar specifikt om rekursivitet. (26 sidor) |
-|[**Uppgifter.pdf**](Uppgifter.pdf) | Uppgifter att arbeta med som handlar om det vi gått genom under föreläsningarna. |
-|[**Uppgifter_lösningsförslag.pdf**](Uppgifter_lösningsförslag)| Lösningsförslag till uppgifterna ovan. (Försök att lösa dem själva innan ni kikar på lösningarna!) |
+| Filnamn                                                                | Beskrivning                                                                                                                                                          |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Rekursivt_fibonacciträd.pdf**](Rekursive_fibonacci_tree.pdf)        | En bättre översikt av anropsträdet som skapas när vi anropar en rekursiv fibonaccialgoritm. Visar även hur anropen returnerar värden och i vilken ordning de skapas. |
+| [**Godel_Escher_Bach_Recursion.pdf**](Godel_Escher_Bach_Recursion.pdf) | Utdrag från Douglas Hofstadters bok Gödel, Escher, Bach. Kapitlet handlar specifikt om rekursivitet. (26 sidor)                                                      |
+| [**Uppgifter vecka 5.pdf**](Uppgifter_vecka_5.pdf)                     | Uppgifter att arbeta med som handlar om det vi gått genom under vecka 5: rekursiva algoritmer, stackar, köer, minne och abstrakta datatyper.                         |
+| [**Uppgifter_vecka_5_facit.pdf**](Uppgifter_vecka_5_facit.pdf)         | Lösningsförslag till uppgifterna ovan för vecka 5. (Försök att lösa dem själva innan ni kikar på lösningarna!)                                                       |
 
 # <a id="verktyg"></a>IntelliJ-plugins
 - **PDF Viewer.** https://plugins.jetbrains.com/plugin/14494-pdf-viewer
