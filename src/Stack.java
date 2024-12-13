@@ -1,5 +1,4 @@
 import java.util.EmptyStackException;
-import java.util.LinkedList;
 
 /**
  * En generisk implementation av en stack med en underliggande array. Type innebär att klassen är en
