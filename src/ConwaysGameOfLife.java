@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.Random;
 
+@SuppressWarnings("all")
 public class ConwaysGameOfLife extends JPanel
 {
     private static final int ROWS = 25; // Number of rows (vertical)
