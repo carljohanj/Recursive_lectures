@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Den genererar även ett simpelt diagram som visar hur det rekursiva anropsträdet ser ut. En webbsida skapas
  * automatiskt för att illustrera resultaten.
  * @author Carl-Johan Johansson
- * @since 2025-01-29
+ * @since 2025-01-27
  * @version 1.0
  */
 public class FibonacciStackCounter
@@ -63,11 +63,11 @@ public class FibonacciStackCounter
         treeWriter.write(recursiveTree.toString());
         treeWriter.close();
         stackWriter.close();
-        System.out.println(YELLOW + "\nRekursivFibonacci.html har genererats i projektmappen." + COLOR_RESET);
+        System.out.println(YELLOW + "\nRekursivFibonacci.html har genererats i output_tmp_files." + COLOR_RESET);
         Thread.sleep(400);
         createWebpage(n, programOutput);
 
-        BufferedWriter htmlWriter = new BufferedWriter(new FileWriter("RekursivFibonacci.html", false));
+        BufferedWriter htmlWriter = new BufferedWriter(new FileWriter("output_tmp_files/RekursivFibonacci.html", false));
         htmlWriter.write(html.toString());
         htmlWriter.close();
         openWebpage();
@@ -158,7 +158,7 @@ public class FibonacciStackCounter
     {
         try
         {
-            File htmlFile = new File("RekursivFibonacci.html");
+            File htmlFile = new File("output_tmp_files/RekursivFibonacci.html");
             if (Desktop.isDesktopSupported()) Desktop.getDesktop().browse(htmlFile.toURI());
             else System.err.println("Kan inte öppna html-filen automatiskt.");
         }
@@ -203,8 +203,8 @@ public class FibonacciStackCounter
             <title>Fibonacci Stack Counter</title>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2" />
-            <link rel="stylesheet" href="assets/reset.css">
-            <link rel="stylesheet" href ="assets/style.css">
+            <link rel="stylesheet" href="../assets/reset.css">
+            <link rel="stylesheet" href ="../assets/style.css">
             </head>
             <body>
             <main>
