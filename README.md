@@ -29,10 +29,10 @@ Sourcemappen innehåller:
 | **ValueVsReference.java**          | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser (detta sköts automatiskt i Java men man behöver förstå vad som händer). |
 
 # <a id="presentationer"></a>Föreläsningsslides
-| Filnamn                                           | Beskrivning                                                                                                                                    |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Filnamn                                           | Beskrivning                                                                                                                                       |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Föreläsning 1**](files/Forelasning_1_Algo.pdf) | Presentationen från föreläsningstillfälle 29/1 där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
-| [**Föreläsning 2**](files/Föreläsning_2_Algo.pdf) | Presentationen från föreläsningstillfälle 30/1 där vi pratade om abstrakta datatyper, Generics, stackar och köer. |
+| [**Föreläsning 2**](files/Föreläsning_2_Algo.pdf) | Presentationen från föreläsningstillfälle 30/1 där vi pratade om rekursiva datastrukturer, abstrakta datatyper, Generics, stackar och köer.       |
 
 # <a id="andra-filer"></a>Uppgifter och andra filer
 | Filnamn                                                                | Beskrivning                                                                                                                                                          |

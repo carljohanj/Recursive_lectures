@@ -8,8 +8,8 @@ import java.awt.event.MouseEvent;
 @SuppressWarnings("all")
 public class SierpinskiTriangle extends JPanel
 {
-    private static final int WIDTH = 1200;
-    private static final int HEIGHT = 900;
+    private static final int WIDTH = 1000;
+    private static final int HEIGHT = 800;
     private int depth;
     private double zoom = 1.0;
     private boolean colorEnabled = true;
