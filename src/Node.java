@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 /**
  * En rekursiv klass som t.ex kan användas för att bygga en länkad lista.
  * Notera att Node innehåller en instans av sig själv. När vi skapar en ny

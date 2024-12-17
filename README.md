@@ -31,8 +31,8 @@ Sourcemappen innehåller:
 # <a id="presentationer"></a>Föreläsningsslides
 | Filnamn                                           | Beskrivning                                                                                                                                       |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Föreläsning 1**](files/Forelasning_1_Algo.pdf) | Presentationen från föreläsningstillfälle 29/1 där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
-| [**Föreläsning 2**](files/Föreläsning_2_Algo.pdf) | Presentationen från föreläsningstillfälle 30/1 där vi pratade om rekursiva datastrukturer, abstrakta datatyper, Generics, stackar och köer.       |
+| [**Föreläsning 1**](files/Forelasning_1_algo.pdf) | Presentationen från föreläsningstillfälle 29/1 där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
+| [**Föreläsning 2**](files/Forelasning_2_algo.pdf) | Presentationen från föreläsningstillfälle 30/1 där vi pratade om rekursiva datastrukturer, abstrakta datatyper, Generics, stackar och köer.       |
 
 # <a id="andra-filer"></a>Uppgifter och andra filer
 | Filnamn                                                                | Beskrivning                                                                                                                                                          |
