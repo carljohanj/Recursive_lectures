@@ -8,6 +8,8 @@ public class Node<Type extends Number>
     Type data;
     Node<Type> node;      //En instans av Node inuti Node
 
+    int[] array = {1, 2, 3, 4};
+
     public Node(Type data)
     {
         this.data = data;
