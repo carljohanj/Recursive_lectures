@@ -28,10 +28,10 @@ Sourcemappen innehåller:
 | **ValueVsReference.java**          | Ett kort exempel som illustrerar skillnaden mellan att skicka variabler som värde och att skicka dem som referenser (detta sköts automatiskt i Java men man behöver förstå vad som händer). |
 
 # <a id="presentationer"></a>Föreläsningsslides
-| Filnamn                                           | Beskrivning                                                                                                                                       |
-|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Filnamn                                          | Beskrivning                                                                                                                                       |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Föreläsning 1**](files/Forelasning_1_algo.pdf) | Presentationen från föreläsningstillfälle 29/1 där vi behandlade rekursiva algoritmer, callstacken, minne, referenser och dynamisk programmering. |
-| [**Föreläsning 2**](files/Forelasning_2_algo.pdf) | Presentationen från föreläsningstillfälle 30/1 där vi pratade om rekursiva datastrukturer, abstrakta datatyper, Generics, stackar och köer.       |
+| (Kommer)                                         | Presentationen från föreläsningstillfälle 30/1 där vi pratade om rekursiva datastrukturer, abstrakta datatyper, Generics, stackar och köer.       |
 
 # <a id="andra-filer"></a>Uppgifter och andra filer
 | Filnamn                                                                | Beskrivning                                                                                                                                                          |
@@ -50,8 +50,10 @@ Sourcemappen innehåller:
 # <a id="resurser"></a>Resurser
 
 ## <a id="links"></a>Länkar
+- **Gif-animering av binär sökning**: https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/linear-vs-binary-search-best-case.gif
 - **Bra sammanfattning av Generics**: https://docs.oracle.com/javase/tutorial/java/generics/index.html
 - **Abstrakta datatyper**: https://www.geeksforgeeks.org/abstract-data-types/
+- **The importance of Naive Solutions**: https://softwaredoug.com/blog/2022/11/14/importance-of-naive-solutions
 - **Boktips: Gödel, Escher, Bach.** https://sv.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 
 ## <a id="videor"></a>Videoklipp
